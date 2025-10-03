@@ -7,10 +7,10 @@ My name is **Sean Gelacio**, and I’m currently pursuing a degree in **Informat
 
 ## 🎯 My Passion & Skills  
 I enjoy working on projects that push both **creative and technical boundaries**. Some of the areas I specialize in include:  
-- **Web Development** – HTML, CSS, JavaScript, SQL  
+- **Web Development** – HTML, CSS, JavaScript, SQL, Wix
 - **Game Development** – Unity and C# for interactive, user-centered experiences  
 - **Data Analysis** – Python, Pandas, NumPy, Matplotlib  
-- **UI/UX Design** – Designing responsive, accessible interfaces  
+- **UI/UX Design** – Figma, Designing responsive, accessible interfaces  
 
 ---
 
@@ -19,9 +19,10 @@ I enjoy working on projects that push both **creative and technical boundaries**
   Mentored K-12 students in Unity-based game design, strengthening collaboration and problem-solving while creating engaging learning experiences.  
 
 - **Key Projects**  
-  - **ScarletGrub Prototype** – A Rutgers dining takeout mobile app to reduce wait times and improve accessibility.  
+  - **ScarletGrub Prototype** (https://asg22074.wixsite.com/scarletgrub/prototype) – A Rutgers dining takeout mobile app to reduce wait times and improve accessibility.  
   - **Pokémon Login System** – Secure client-server login built with Python, SQLite, and PokéAPI.  
-  - **Google Play Store Data Analysis** – Cleaned and analyzed app data with Python, producing visual insights into installs, reviews, and engagement.  
+  - **Google Play Store Data Analysis** – Cleaned and analyzed app data with Python, producing visual insights into installs, reviews, and engagement.
+  - **Active Allies AI and Mental Health Chatbot** (https://kvd293.wixsite.com/activeallies)
 
 ---
 
