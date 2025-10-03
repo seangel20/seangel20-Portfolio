@@ -9,7 +9,7 @@ I’m a versatile developer pursuing a degree in **Information Technology and In
 I enjoy building **responsive websites, interactive applications, and Unity-based games**, and I’m passionate about creating products that are both **innovative and user-friendly**.  
 
 📍 Based in New Jersey  
-🎓 Expected Graduation: **January 2026**:contentReference[oaicite:2]{index=2}
+🎓 Expected Graduation: **January 2026**
 
 ---
 
@@ -35,7 +35,7 @@ I enjoy building **responsive websites, interactive applications, and Unity-base
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=white)  
 
 **Data Science & Visualization:**  
-Pandas, NumPy, Matplotlib, Regex:contentReference[oaicite:3]{index=3}
+Pandas, NumPy, Matplotlib, Regex
 
 ---
 
@@ -44,27 +44,27 @@ Pandas, NumPy, Matplotlib, Regex:contentReference[oaicite:3]{index=3}
 ### [📱 ScarletGrub – Online Food Ordering Prototype](#)  
 - Designed and developed a prototype mobile app for Rutgers students to order dining hall takeout.  
 - Integrated **real-time tracking, payment options, customizable orders,** and **nutrition tracking**.  
-- Improved commuter accessibility and reduced wait times through streamlined UX. :contentReference[oaicite:4]{index=4}
+- Improved commuter accessibility and reduced wait times through streamlined UX. 
 
 ---
 
 ### [🎮 Pokémon Login System](#)  
 - Built a **client-server login system** with Python sockets and SQLite.  
 - Integrated **PokéAPI** to generate themed usernames dynamically.  
-- Ensured **secure account creation, authentication, and scalable user management**. :contentReference[oaicite:5]{index=5}
+- Ensured **secure account creation, authentication, and scalable user management**. 
 
 ---
 
 ### [📊 Google Play Store Data Analysis](#)  
 - Processed and cleaned app data using **Python, Pandas, NumPy, and Regex**.  
 - Generated insights on app installs, ratings, reviews, and pricing.  
-- Created **visualizations** highlighting user engagement and market comparisons. :contentReference[oaicite:6]{index=6}
+- Created **visualizations** highlighting user engagement and market comparisons.
 
 ---
 
 ## 🌐 More About Me  
-- 🎓 **Game Design Teacher & Rocket League Coach** at STEM Forged – Taught K-12 students Unity-based game design and improved student collaboration & engagement:contentReference[oaicite:7]{index=7}.  
-- 📝 Passionate about blending **creativity, technical problem-solving, and user-centered design**:contentReference[oaicite:8]{index=8}.  
+- 🎓 **Game Design Teacher & Rocket League Coach** at STEM Forged – Taught K-12 students Unity-based game design and improved student collaboration & engagement.
+- 📝 Passionate about blending **creativity, technical problem-solving, and user-centered design**.
 - 💡 Always eager to explore **new tools, frameworks, and projects** that challenge my skills.  
 
 ---
