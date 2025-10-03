@@ -39,7 +39,7 @@ Pandas, NumPy, Matplotlib, Regex
 
 ---
 
-## 📂 Featured Projects  
+## 📂 Recent Projects  
 
 ### [📱 ScarletGrub – Online Food Ordering Prototype](#)  
 - Designed and developed a prototype mobile app for Rutgers students to order dining hall takeout.  
