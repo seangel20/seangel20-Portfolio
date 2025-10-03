@@ -19,11 +19,11 @@ I enjoy working on projects that push both **creative and technical boundaries**
   Mentored K-12 students in Unity-based game design, strengthening collaboration and problem-solving while creating engaging learning experiences.  
 
 - **Key Projects**
-  - **My Website Portfolio** (https://codepen.io/SEAN-GELACIO/pen/GggPNQK) - A responsive homepage prototype showcasing a clean navigation header, intro banner with background image, and links to “Home”, “About Me”, and “Contact” sections for site navigation.
-  - **ScarletGrub Prototype** (https://asg22074.wixsite.com/scarletgrub/prototype) – A Rutgers dining takeout mobile app to reduce wait times and improve accessibility.  
-  - **Pokémon Login System** (https://github.com/dodofrog/Pokemon-Login-System) – Secure client-server login built with Python, SQLite, and PokéAPI.  
-  - **Google Play Store Data Analysis** [Google Play Store Data Analysis](./google_apps.ipynb) – Cleaned and analyzed app data with Python, producing visual insights into installs, reviews, and engagement.
-  - **Active Allies AI and Mental Health Chatbot** (https://kvd293.wixsite.com/activeallies) - An Website supporting AI-powered emotional-support chatbot platform aimed at improving workplace well-being through mood tracking, stress management, and transparent conversational support. 
+  - **My Website Portfolio** [Website made on codepen](https://codepen.io/SEAN-GELACIO/pen/GggPNQK) - A responsive homepage prototype showcasing a clean navigation header, intro banner with background image, and links to “Home”, “About Me”, and “Contact” sections for site navigation.
+  - **ScarletGrub Prototype** [Figma Prototype on Wix](https://asg22074.wixsite.com/scarletgrub/prototype) – A Rutgers dining takeout mobile app to reduce wait times and improve accessibility.  
+  - **Pokémon Login System** [Link to repository](https://github.com/dodofrog/Pokemon-Login-System) – Secure client-server login built with Python, SQLite, and PokéAPI.  
+  - **Google Play Store Data Analysis** [code from Jupyter notebook](./google_apps.ipynb) – Cleaned and analyzed app data with Python, producing visual insights into installs, reviews, and engagement.
+  - **Active Allies AI and Mental Health Chatbot** [Wix website](https://kvd293.wixsite.com/activeallies) - An Website supporting AI-powered emotional-support chatbot platform aimed at improving workplace well-being through mood tracking, stress management, and transparent conversational support. 
 
 ---
 
