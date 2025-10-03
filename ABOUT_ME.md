@@ -22,7 +22,7 @@ I enjoy working on projects that push both **creative and technical boundaries**
   - **ScarletGrub Prototype** (https://asg22074.wixsite.com/scarletgrub/prototype) – A Rutgers dining takeout mobile app to reduce wait times and improve accessibility.  
   - **Pokémon Login System** – Secure client-server login built with Python, SQLite, and PokéAPI.  
   - **Google Play Store Data Analysis** – Cleaned and analyzed app data with Python, producing visual insights into installs, reviews, and engagement.
-  - **Active Allies AI and Mental Health Chatbot** (https://kvd293.wixsite.com/activeallies)
+  - **Active Allies AI and Mental Health Chatbot** (https://kvd293.wixsite.com/activeallies) - An Website supporting AI-powered emotional-support chatbot platform aimed at improving workplace well-being through mood tracking, stress management, and transparent conversational support. 
 
 ---
 
