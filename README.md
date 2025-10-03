@@ -69,8 +69,7 @@ Pandas, NumPy, Matplotlib, Regex
 
 ---
 
-# 👋 About Me – Sean Gelacio  
-
-🔙 [Back to Profile](./README.md)  
-
+---
 ✨ Thanks for visiting my profile — let’s connect and build something amazing together! 🚀  
+
+👉 [Read More About Me](./ABOUT_ME.md)
