@@ -35,10 +35,9 @@ Beyond technical proficiency, I’m passionate about creating **solutions that a
 - 💼 [LinkedIn](https://www.linkedin.com/in/sean-gelacio-219186218/)
 
 
----
-✨ Thanks for visiting my profile — let’s connect and build something amazing together! 🚀  
+# 👋 About Me – Sean Gelacio  
 
-👉 [Read More About Me](./ABOUT_ME.md)
+🔙 [Back to Profile](./README.md)  
 
 
 ---
