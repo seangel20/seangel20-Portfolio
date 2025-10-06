@@ -28,8 +28,8 @@ I enjoy working on projects that push both **creative and technical boundaries**
 ---
 
 - **Certificates and Specializations**
- - **Python for Everybody Specialization** [Coursera Specialization for Python](./Python_Cousera.pdf)
- - **HTML5 Certificate** [HTML5 Coursera Certificate](./HTML_Coursera.pdf)
+  - **Python for Everybody Specialization** [Coursera Specialization for Python](./Python_Cousera.pdf)
+  - **HTML5 Certificate** [HTML5 Coursera Certificate](./HTML_Coursera.pdf)
 
 ---
 
