@@ -27,6 +27,12 @@ I enjoy working on projects that push both **creative and technical boundaries**
 
 ---
 
+- **Certificates and Specializations**
+ - **Python for Everybody Specialization** [Coursera Specialization for Python](./Python_Cousera.pdf)
+ - **HTML5 Certificate** [HTML5 Coursera Certificate](./HTML_Coursera.pdf)
+
+---
+
 ## 💡 Why I Build  
 Beyond technical proficiency, I’m passionate about creating **solutions that are innovative, secure, and accessible**. Whether I’m integrating APIs, designing efficient systems, or building intuitive interfaces, my goal is always to prioritize **user experience** while solving real-world problems.  
 
