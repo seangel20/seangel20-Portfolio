@@ -19,6 +19,8 @@ I enjoy working on projects that push both **creative and technical boundaries**
   Mentored K-12 students in Unity-based game design, strengthening collaboration and problem-solving while creating engaging learning experiences.  
 
 - **Key Projects**
+  - **FitTrack App** [Link to Github repository](https://github.com/seangel20/FitTrack-Project) - A fitness tracking website and app using Django, SQL, and Bootstrap to help users record workouts, exercises, and fitness progress.
+  - **Personal Finance Tracker** [Link to Github repository](https://github.com/seangel20/Personal-Finance-Tracker) - A personal finance tracker to allow users to manage income, expenses, and spending categories.
   - **My Website Portfolio** [Website made on codepen](https://codepen.io/SEAN-GELACIO/pen/GggPNQK) - A responsive homepage prototype showcasing a clean navigation header, intro banner with background image, and links to “Home”, “About Me”, and “Contact” sections for site navigation.
   - **ScarletGrub Prototype** [Figma Prototype on Wix](https://asg22074.wixsite.com/scarletgrub/prototype) – A Rutgers dining takeout mobile app to reduce wait times and improve accessibility.  
   - **Pokémon Login System** [Link to repository](https://github.com/dodofrog/Pokemon-Login-System) – Secure client-server login built with Python, SQLite, and PokéAPI.
