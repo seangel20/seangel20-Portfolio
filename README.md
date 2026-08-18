@@ -41,6 +41,20 @@ Pandas, NumPy, Matplotlib, Regex
 
 ## 📂 Recent Projects  
 
+### [📱 FitTrack - A Fitness Tracking App and Website](#)  
+- Developing a full-stack fitness tracking web application using Django and PostgreSQL to help users record workouts, exercises,
+and fitness progress.
+- Building the application around Django’s Model-View-Template architecture while learning Django ORM, database
+migrations, URL routing, views, templates, and form handling.
+- Designing relational PostgreSQL data models for persistent fitness and workout data while applying CRUD operations
+through Django’s ORM.
+
+### [📱 Personal Finance Tracker](#)  
+- Designed and developed a full-stack personal finance application using Flask and SQLite that enables users to manage
+income, expenses, and spending categories through a responsive web interface.
+- Built a Flask application consisting of 10+ routes supporting user authentication and financial transaction management.
+- Designed relational database schemas and implemented CRUD operations for persistent financial data storage.
+
 ### [📱 ScarletGrub – Online Food Ordering Prototype](#)  
 - Designed and developed a prototype mobile app for Rutgers students to order dining hall takeout.  
 - Integrated **real-time tracking, payment options, customizable orders,** and **nutrition tracking**.  
