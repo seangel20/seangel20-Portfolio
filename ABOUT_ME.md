@@ -1,7 +1,12 @@
 # 👋 About Me – Sean Gelacio  
 
 ## 📖 My Story  
-My name is **Sean Gelacio**, and I’m currently pursuing a degree in **Information Technology and Informatics** at Rutgers University, with a strong focus on **web development, UX design, and game development**. My academic background and personal projects have allowed me to merge technical problem-solving with creativity, building solutions that prioritize both **functionality and user experience**.  
+My name is **Sean Gelacio**. I am a **Rutgers University graduate** with a degree in **Information Technology & Informatics** and a minor in Psychology with a background in Computer Science and Data Science. My primary professional interests are **software engineering, full-stack web development, and UX/UI design, with additional interests in data science, data analytics, IT infrastructure, and cybersecurity**.
+I enjoy designing applications that combine practical functionality with accessible, user-friendly interfaces.
+I am continuing to expand my knowledge of PostgreSQL, Django ORM, UX/UI design, and data science through independent learning and project development.
+Professionally, I work as a Best Buy Sales Representative and Starlink Specialist, where I apply technical communication, customer needs assessment, teamwork, and problem-solving skills to help customers find suitable technology solutions.
+I am seeking opportunities to contribute to **software development, web development, and data-related projects** while continuing to grow as a technology professional.
+I value continuous learning, adaptability, collaboration, and the opportunity to develop technology that solves meaningful problems.
 
 ---
 
@@ -14,10 +19,6 @@ I enjoy working on projects that push both **creative and technical boundaries**
 - **IT Support** - IT Support: Windows, Microsoft 365, Microsoft Teams, Printer & Peripheral Setup, Software Installation, Hardware/Software Troubleshooting, Basic Network Troubleshooting, Command-Line Interfaces, Virtual Environments
 
 ---
-
-## 🛠️ Notable Experiences  
-- **Game Design Teacher & Rocket League Coach at STEM Forged**  
-  Mentored K-12 students in Unity-based game design, strengthening collaboration and problem-solving while creating engaging learning experiences.  
 
 - **Key Projects**
   - **Interactive Developer Portfolio** [Link to Github repository](https://github.com/seangel20/Interactive-Portfolio) - A Django-based portfolio architecture to organize technical projects, professional experience, and academic work.
@@ -55,4 +56,4 @@ Beyond technical proficiency, I’m passionate about creating **solutions that a
 
 ---
 
-✨ I’m eager to bring my skills in **game development, web development, and UX design** to projects that challenge me and make a positive impact. Let’s build something amazing together! 🚀
+✨ I’m eager to bring my skills in **software or web development, data science and analytics, and IT support and cybersecurity** to projects that challenge me and make a positive impact. Let’s build something amazing together! 🚀
