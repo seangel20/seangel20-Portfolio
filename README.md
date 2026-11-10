@@ -1,15 +1,14 @@
 # 👋 Hi, I'm Sean Gelacio  
-### 💻 Information Technology & Informatics Student | Aspiring Developer | UI/UX Enthusiast  
+### 💻 Software & Web Developer | Python, Django, Flask & SQL | Data Science & Analytics | IT Support and Cybersecurity | ITI Graduate at Rutgers University
 
 ---
 
 ## 🚀 About Me  
-I’m a versatile developer pursuing a degree in **Information Technology and Informatics** at Rutgers University with a minor in Psychology. I have hands-on experience in **UI/UX design, web development, and game development**, complemented by strong data analysis skills.  
+I am a **Rutgers University graduate** with a degree in **Information Technology & Informatics** and a minor in Psychology with a background in Computer Science and Data Science. My primary professional interests are **software engineering, full-stack web development, and UX/UI design, with additional interests in data science, data analytics, IT infrastructure, and cybersecurity**.
 
 I enjoy building **responsive websites, interactive applications, and Unity-based games**, and I’m passionate about creating products that are both **innovative and user-friendly**.  
 
-📍 Based in New Jersey  
-🎓 Expected Graduation: **January 2026**
+📍 Based in West Milford, New Jersey 07480, United States
 
 ---
 
@@ -23,6 +22,8 @@ I enjoy building **responsive websites, interactive applications, and Unity-base
 
 **Languages:**  
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)  
+![Java](https://img.shields.io/badge/Java-ED8B00?logo=java&logoColor=white)  
+![C++](https://img.shields.io/badge/C++-00599C?logo=c++&logoColor=white)  
 ![SQL](https://img.shields.io/badge/SQL-336791?logo=postgresql&logoColor=white)  
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)  
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)  
@@ -30,9 +31,15 @@ I enjoy building **responsive websites, interactive applications, and Unity-base
 ![C#](https://img.shields.io/badge/C%23-239120?logo=c-sharp&logoColor=white)  
 
 **Tools & Frameworks:**  
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)  
+![Github](https://img.shields.io/badge/Github-181717?logo=github&logoColor=white)  
+![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white)  
+![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white)  
 ![Unity](https://img.shields.io/badge/Unity-000000?logo=unity&logoColor=white)  
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?logo=visualstudio&logoColor=white)  
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=white)  
+![Flask](https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white)  
+![Django](https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white)  
 
 **Data Science & Visualization:**  
 Pandas, NumPy, Matplotlib, Regex
@@ -40,6 +47,11 @@ Pandas, NumPy, Matplotlib, Regex
 ---
 
 ## 📂 Recent Projects  
+
+### [📱 Interactive Developer Portfolio](#)  
+- Established a Django-based web application with reusable templates, URL routing, and static asset management.
+- Organized application components to support modular development and future feature expansion.
+- Developing additional functionality for dynamic project management and database-driven content updates.
 
 ### [📱 FitTrack - A Fitness Tracking App and Website](#)  
 - Developing a full-stack fitness tracking web application using Django and PostgreSQL to help users record workouts, exercises,
@@ -77,7 +89,6 @@ income, expenses, and spending categories through a responsive web interface.
 ---
 
 ## 🌐 More About Me  
-- 🎓 **Game Design Teacher & Rocket League Coach** at STEM Forged – Taught K-12 students Unity-based game design and improved student collaboration & engagement.
 - 📝 Passionate about blending **creativity, technical problem-solving, and user-centered design**.
 - 💡 Always eager to explore **new tools, frameworks, and projects** that challenge my skills.  
 
