@@ -7,10 +7,11 @@ My name is **Sean Gelacio**, and I’m currently pursuing a degree in **Informat
 
 ## 🎯 My Passion & Skills  
 I enjoy working on projects that push both **creative and technical boundaries**. Some of the areas I specialize in include:  
-- **Web Development** – HTML, CSS, JavaScript, SQL, Wix
+- **Web Development** – Python, Java, C++, C, HTML, CSS, JavaScript, SQL, Wix
 - **Game Development** – Unity and C# for interactive, user-centered experiences  
-- **Data Analysis** – Python, Pandas, NumPy, Matplotlib  
-- **UI/UX Design** – Figma, Designing responsive, accessible interfaces  
+- **Data Analysis** – Python, R, Pandas, NumPy, Matplotlib, Tableau, PowerBI
+- **UI/UX Design** – Figma, WordPress, Designing responsive, accessible interfaces
+- **IT Support** - IT Support: Windows, Microsoft 365, Microsoft Teams, Printer & Peripheral Setup, Software Installation, Hardware/Software Troubleshooting, Basic Network Troubleshooting, Command-Line Interfaces, Virtual Environments
 
 ---
 
@@ -19,6 +20,7 @@ I enjoy working on projects that push both **creative and technical boundaries**
   Mentored K-12 students in Unity-based game design, strengthening collaboration and problem-solving while creating engaging learning experiences.  
 
 - **Key Projects**
+  - **Interactive Developer Portfolio** [Link to Github repository](https://github.com/seangel20/Interactive-Portfolio) - A Django-based portfolio architecture to organize technical projects, professional experience, and academic work.
   - **FitTrack App** [Link to Github repository](https://github.com/seangel20/FitTrack-Project) - A fitness tracking website and app using Django, SQL, and Bootstrap to help users record workouts, exercises, and fitness progress.
   - **Personal Finance Tracker** [Link to Github repository](https://github.com/seangel20/Personal-Finance-Tracker) - A personal finance tracker to allow users to manage income, expenses, and spending categories.
   - **My Website Portfolio** [Website made on codepen](https://codepen.io/SEAN-GELACIO/pen/GggPNQK) - A responsive homepage prototype showcasing a clean navigation header, intro banner with background image, and links to “Home”, “About Me”, and “Contact” sections for site navigation.
